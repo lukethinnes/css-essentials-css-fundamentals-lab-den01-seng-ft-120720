@@ -20,3 +20,7 @@ a {
   padding-right: 10px;
   background-color: purple:
 }
+
+figcaption {
+  font-style: 8px;
+}
