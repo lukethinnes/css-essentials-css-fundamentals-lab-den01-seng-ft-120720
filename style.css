@@ -28,6 +28,8 @@ figcaption {
   text-align: center;
   width: 800px;
 }
-figure - p, p {
+
+p#featured-property {
+  font-size: 16px;
   text-align: center;
 }
