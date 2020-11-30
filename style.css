@@ -28,7 +28,7 @@ figcaption {
   text-align: center;
   font-size: 10px;
 }
-figure + p, p {
+figure + p {
   text-align: center;
   width: 800px;
 }
