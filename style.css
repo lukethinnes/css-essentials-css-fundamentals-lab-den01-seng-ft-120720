@@ -8,6 +8,9 @@ h1 {
   text-align: center;
 }
 
-nav {
-  align-items: center;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
 }
