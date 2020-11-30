@@ -13,6 +13,10 @@ h1 {
   margin-right: auto;
 }
 
+img {
+  display: block;
+  width: 90%
+}
 nav {
   text-align: center;
   margin-left: auto;
