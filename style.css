@@ -15,7 +15,7 @@ img {
   width: 75%
 }
 
-a {
+h1 - a {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -28,3 +28,4 @@ figcaption {
   text-align: center;
   font-size: 10px;
 }
+
