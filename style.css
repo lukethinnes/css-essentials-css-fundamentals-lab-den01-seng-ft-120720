@@ -28,3 +28,7 @@ figcaption {
   text-align: center;
   width: 800px;
 }
+
+p#featured-property {
+  text-align: center;
+}
